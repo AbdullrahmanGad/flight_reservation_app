@@ -61,14 +61,5 @@ The `.exe` file will be in the `/dist` directory.
 
 ## Notes
 
-- Tested on Windows 10.
 - To recreate DB: Delete `flights.db` and rerun the app.
-
-## Author
-
-Abdelrahman
-
-## License
-
-MIT License
 
